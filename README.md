@@ -1,5 +1,5 @@
 # compettition
-コンペのためのレポジトリです。\
+
 最初に自分の好きな階層でターミナル上(windowsでこれが何に該当するかは知りません)に`git clone https://github.com/ponyopon/compettition.git` を行ってください\
 VScodeならば統合ターミナルというのが開けると思うのでそれのほうが楽だと思います\
 もしくは右上の緑のcodeという部分からそのままzipをダウンロードして好きな階層で解凍してください\
