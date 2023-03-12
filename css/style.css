@@ -157,6 +157,15 @@ section h2 {
 
 section h3 {
 	margin: 32px 0 0 16px;
+	text-align: center;
+}
+
+#sec11 p {
+	text-align: center;
+}
+
+#sec11 {
+	text-align: center;
 }
 
 section h4 {
@@ -247,9 +256,7 @@ section h2 span {
 	padding-bottom: 50px;
 }
 
-.article img {
-	float: left;
-	margin: 5px 20px 20px;
+.inner img {
 	border-radius: 16px;
 }
 
