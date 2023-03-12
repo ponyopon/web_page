@@ -272,22 +272,6 @@ section h2 span {
 	margin: 20px 0;
 }
 
-#map {
-	position: relative;
-	padding-bottom: 75%;
-	height: 0;
-	overflow: hidden;
-	z-index: 0;
-}
-
-#map iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100% !important;
-	height: 100% !important;
-	border: 0;
-}
 
 
 
