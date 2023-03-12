@@ -269,25 +269,9 @@ section h2 span {
 .col2 li {
 	display: inline-block;
 	width: 100%;
-	margin: 20px 0;
+	margin: 20px;
 }
 
-#map {
-	position: relative;
-	padding-bottom: 75%;
-	height: 0;
-	overflow: hidden;
-	z-index: 0;
-}
-
-#map iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100% !important;
-	height: 100% !important;
-	border: 0;
-}
 
 
 
